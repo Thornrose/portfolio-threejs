@@ -7,6 +7,7 @@ import { Suspense } from 'react';
 import { Canvas } from '@react-three/fiber';
 import Loader from '../components/Loader';
 import Island from '../models/Island';
+import Sky from '../models/Sky';
 
 
 
@@ -38,7 +39,7 @@ const Home = () => {
           <directionalLight position={[1, 1, 1]} intensity={2}/>
           <ambientLight intensity={0.5}/>
           <hemisphereLight skyColor="#b1e1ff" groundColor="#000000" intensity={1}/>
-
+          <Sky />
           <Island
             position={islandPosition}
             scale={islandScale}
