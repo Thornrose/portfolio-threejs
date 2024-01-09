@@ -4,9 +4,11 @@ import { Canvas } from "@react-three/fiber";
 import emailjs from "@emailjs/browser";
 
 import Fox from "../models/Fox";
-import useAlert from "../hooks/useAlert";
+
 import Alert from "../components/Alert";
 import Loader from "../components/Loader";
+
+import useAlert from "../hooks/useAlert";
 
 const Contact = () => {
   const formRef = useRef(null);
@@ -53,7 +55,7 @@ const Contact = () => {
       setCurrentAnimation("idle");
       console.log(error);
       showAlert({show: true, text: "Something went wrong :(", type: "danger" });
-      // TODO: Show / hide error message
+      
     })
   };
 
