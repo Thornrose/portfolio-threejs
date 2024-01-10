@@ -55,13 +55,17 @@ const Island = ({isRotating, setIsRotating, setCurrentStage, ...props}) => {
     }
   }
 
+  // changing rotation speed below not working as intended, any wany to check on key hold? right now only setting after keyUp
+
   const handleKeyDown = (e) => {
     if (e.key === "ArrowLeft") {
       if (!isRotating) setIsRotating(true);
         islandRef.current.rotation.y += 0.01 * Math.PI;
+        // rotationSpeed.current = 0.0125;
     } else if (e.key === "ArrowRight") {
       if (!isRotating) setIsRotating(true);
         islandRef.current.rotation.y -= 0.01 * Math.PI;
+        // rotationSpeed.current = -0.0125;
     }
   }
 
