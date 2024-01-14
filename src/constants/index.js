@@ -10,20 +10,18 @@ import {
     html,
     javascript,
     linkedin,
-    mongodb,
-    motion,
-    mui,
-    nextjs,
     nodejs,
     pricewise,
+    rails,
     react,
-    redux,
+    ruby,
     sass,
     snapgram,
     summiz,
     tailwindcss,
     threads,
-    typescript
+    typescript,
+    wordpress
 } from "../assets/icons";
 
 export const skills = [
@@ -58,39 +56,24 @@ export const skills = [
         type: "Frontend",
     },
     {
-        imageUrl: mongodb,
-        name: "MongoDB",
-        type: "Database",
-    },
-    {
-        imageUrl: motion,
-        name: "Motion",
-        type: "Animation",
-    },
-    {
-        imageUrl: mui,
-        name: "Material-UI",
-        type: "Frontend",
-    },
-    {
-        imageUrl: nextjs,
-        name: "Next.js",
-        type: "Frontend",
-    },
-    {
         imageUrl: nodejs,
         name: "Node.js",
         type: "Backend",
     },
     {
+      imageUrl: ruby,
+      name: "Ruby",
+      type: "Backend",
+    },
+    {
+      imageUrl: rails,
+      name: "Ruby on Rails",
+      type: "Backend",
+    },
+    {
         imageUrl: react,
         name: "React",
         type: "Frontend",
-    },
-    {
-        imageUrl: redux,
-        name: "Redux",
-        type: "State Management",
     },
     {
         imageUrl: sass,
@@ -106,6 +89,11 @@ export const skills = [
         imageUrl: typescript,
         name: "TypeScript",
         type: "Frontend",
+    },
+    {
+      imageUrl: wordpress,
+      name: "WordPress",
+      type: "Frontend",
     }
 ];
 

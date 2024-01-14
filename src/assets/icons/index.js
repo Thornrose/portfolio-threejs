@@ -9,11 +9,14 @@ import motion from './motion.svg'
 import mui from './mui.svg'
 import nextjs from './nextjs.svg'
 import nodejs from './nodejs.svg'
+import rails from './rails.svg'
 import react from './react.svg'
 import redux from './redux.svg'
+import ruby from './ruby.svg'
 import sass from './sass.svg'
 import tailwindcss from './tailwindcss.svg'
 import typescript from './typescript.svg'
+import wordpress from './wordpress.svg'
 import linkedin from './linkedin.svg'
 import twitter from './twitter.svg'
 import car from './car.svg'
@@ -39,11 +42,14 @@ export {
     mui,
     nextjs,
     nodejs,
+    rails,
     react,
     redux,
+    ruby,
     sass,
     tailwindcss,
     typescript,
+    wordpress,
     linkedin,
     twitter,
     car,
