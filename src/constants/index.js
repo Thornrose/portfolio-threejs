@@ -11,6 +11,7 @@ import {
     javascript,
     linkedin,
     nodejs,
+    postgres,
     pricewise,
     rails,
     react,
@@ -59,6 +60,11 @@ export const skills = [
         imageUrl: nodejs,
         name: "Node.js",
         type: "Backend",
+    },
+    {
+      imageUrl: postgres,
+      name: "PostgreSQL",
+      type: "Backend",
     },
     {
       imageUrl: ruby,

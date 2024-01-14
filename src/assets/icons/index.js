@@ -9,6 +9,7 @@ import motion from './motion.svg'
 import mui from './mui.svg'
 import nextjs from './nextjs.svg'
 import nodejs from './nodejs.svg'
+import postgres from './postgresql.svg'
 import rails from './rails.svg'
 import react from './react.svg'
 import redux from './redux.svg'
@@ -42,6 +43,7 @@ export {
     mui,
     nextjs,
     nodejs,
+    postgres,
     rails,
     react,
     redux,

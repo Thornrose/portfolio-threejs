@@ -14,7 +14,7 @@ const About = () => {
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-        I am an enthusiastic and detail-oriented web developer based in Nova Scotia, Canada. With strong foundations in JavaScript and Ruby, I bring hands-on experience with prominent frameworks such as React, Node.js, and Ruby on Rails. Proficient in database management using SQL and experienced in version control with Git. Committed to delivering clean, efficient code, I leverage testing tools like Mocha, Chai, Jest, and Cypress to ensure robust functionality. Prior experience in Customer Service and Support has honed my communication skills and instilled a user-focused approach to problem-solving. I am ready to contribute technical expertise and creativity to a dynamic web development team.
+        I am an enthusiastic and detail-oriented web developer based in Nova Scotia, Canada. With strong foundations in JavaScript and Ruby, I bring hands-on experience with prominent frameworks such as React, Node.js, and Ruby on Rails. Proficient in database management using SQL and experienced in version control with Git. Committed to delivering clean, efficient code, I leverage testing tools like Jest, Vitest and Cypress to ensure robust functionality. Prior experience in Customer Service and Support has honed my communication skills and instilled a user-focused approach to problem-solving. I am ready to contribute technical expertise and creativity to a dynamic web development team.
         </p>
       </div>
 
