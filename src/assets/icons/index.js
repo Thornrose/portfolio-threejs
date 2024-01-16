@@ -24,7 +24,10 @@ import blueocean from './blueocean.svg'
 import cibc from './cibc.svg'
 import traffic from './traffic.svg'
 import car from './car.svg'
+import map from './map.svg'
+import calendar from './calendar.svg'
 import estate from './estate.svg'
+import clock from './clock.svg'
 import pricewise from './pricewise.svg'
 import snapgram from './snapgram.svg'
 import summiz from './summiz.svg'
@@ -62,6 +65,9 @@ export {
     traffic,
     car,
     estate,
+    clock,
+    map,
+    calendar,
     pricewise,
     snapgram,
     summiz,

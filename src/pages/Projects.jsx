@@ -14,7 +14,7 @@ const Projects = () => {
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          Here are some of my most recent projects:
+        Demonstrating a fusion of creativity and technical expertise, my portfolio showcases diverse web development projects, reflecting my commitment to innovative solutions and comprehensive skill sets in both front-end and back-end technologies.
         </p>
       </div>
 
