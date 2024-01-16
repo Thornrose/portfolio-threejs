@@ -41,6 +41,11 @@ const About = () => {
 
       <div className="py-16">
         <h3 className="subhead-text">Work Experience</h3>
+        <div className="mt-5 flex flex-col gap-3 text-slate-500">
+          <p>
+            My journey into web development started back in 2010 during a high school Java class, planting the initial seeds of my passion. Along the way, my recent experiences have equipped me with the skills and confidence to excel in any professional environment:
+          </p>
+        </div>
         <div className="mt-12 flex">
           <VerticalTimeline>
             {experiences.map((experience, index) => (

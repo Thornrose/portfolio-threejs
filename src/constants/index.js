@@ -106,46 +106,46 @@ export const skills = [
 ];
 
 export const experiences = [
-    {
-        title: "Customer Support Team Lead",
-        company_name: "Traffic Tech",
-        icon: traffic,
-        iconBg: "#accbe1",
-        date: "May 2021 - Present",
-        points: [
-            "Supervised a team of up to 6 employees in meeting defined goals for business targets and professional development.",
-            "Acted as single point of contact for a 10-person group of co-op students to ensure proper support and rapid communication.",
-            "Assisted with the writing and implementation of training documentation and standard procedures, administering training to new hires on a quarterly basis.",
-            "Prepared daily statistical reports for upper management, providing a snapshot of the current day's efficiency rate and predicting upcoming service level impacts.",
-            "Led by example in execution of excellent customer service and precise data entry, utilizing phone and email to trace over-the-road logistics in North America."
-        ],
-    },
-    {
-        title: "Financial Services Representative",
-        company_name: "CIBC",
-        icon: cibc,
-        iconBg: "#fbc3bc",
-        date: "Nov 2019 - Mar 2021",
-        points: [
-            "Took inbound phone calls in a fast-paced environment, averaging approximately 80 calls per day.",
-            "Provided first-call resolution for a wide range of clients over the phone, aiming at an efficiency target of less than 5 minutes per call.",
-            "Ensured white-glove service for high-value clients who would start the call upset and end feeling reassured and heard.",
-            "Adhered strictly to security  and anti-fraud procedures, protecting sensitive client data and business information.",
-        ],
-    },
-    {
-        title: "Customer Service Agent / LNP Processor",
-        company_name: "Blue Ocean Contact Centres",
-        icon: blueocean,
-        iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
-        points: [
-            "Mastered Local Number Portability legacy software, processing and validating up to 100 requests per day for a major telecom carrier.",
-            "Administered troubleshooting procedures requiring a high degree of accuracy.",
-            "Provided detailed escalation reports for tier-2 agents.",
-            "Created and maintained various training documents during down-time to assist colleagues and new hires.",
-        ],
-    },
+  {
+    title: "Customer Service Agent / LNP Processor",
+    company_name: "Blue Ocean Contact Centres",
+    icon: blueocean,
+    iconBg: "#a2d2ff",
+    date: "Oct 2018 - Nov 2019",
+    points: [
+      "Mastered Local Number Portability legacy software, processing and validating up to 100 requests per day for a major telecom carrier.",
+      "Administered troubleshooting procedures requiring a high degree of accuracy.",
+      "Provided detailed escalation reports for tier-2 agents.",
+      "Created and maintained various training documents during down-time to assist colleagues and new hires.",
+    ],
+  },
+  {
+    title: "Financial Services Representative",
+    company_name: "CIBC",
+    icon: cibc,
+    iconBg: "#fbc3bc",
+    date: "Nov 2019 - Mar 2021",
+    points: [
+      "Took inbound phone calls in a fast-paced environment, averaging approximately 80 calls per day.",
+      "Provided first-call resolution for a wide range of clients over the phone, aiming at an efficiency target of less than 5 minutes per call.",
+      "Ensured white-glove service for high-value clients who would start the call upset and end feeling reassured and heard.",
+      "Adhered strictly to security  and anti-fraud procedures, protecting sensitive client data and business information.",
+    ],
+  },
+  {
+    title: "Customer Support Team Lead",
+    company_name: "Traffic Tech",
+    icon: traffic,
+    iconBg: "#accbe1",
+    date: "May 2021 - Present",
+    points: [
+      "Supervised a team of up to 6 employees in meeting defined goals for business targets and professional development.",
+      "Acted as single point of contact for a 10-person group of co-op students to ensure proper support and rapid communication.",
+      "Assisted with the writing and implementation of training documentation and standard procedures, administering training to new hires on a quarterly basis.",
+      "Prepared daily statistical reports for upper management, providing a snapshot of the current day's efficiency rate and predicting upcoming service level impacts.",
+      "Led by example in execution of excellent customer service and precise data entry, utilizing phone and email to trace over-the-road logistics in North America."
+    ],
+  },
 ];
 
 export const socialLinks = [
