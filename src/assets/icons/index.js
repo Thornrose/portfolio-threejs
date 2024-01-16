@@ -20,6 +20,9 @@ import typescript from './typescript.svg'
 import wordpress from './wordpress.svg'
 import linkedin from './linkedin.svg'
 import twitter from './twitter.svg'
+import blueocean from './blueocean.svg'
+import cibc from './cibc.svg'
+import traffic from './traffic.svg'
 import car from './car.svg'
 import estate from './estate.svg'
 import pricewise from './pricewise.svg'
@@ -54,6 +57,9 @@ export {
     wordpress,
     linkedin,
     twitter,
+    blueocean,
+    cibc,
+    traffic,
     car,
     estate,
     pricewise,
